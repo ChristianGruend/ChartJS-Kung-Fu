@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chart.js": "^4.3.0"
+  },
+  "name": "chartjs-kung-fu",
+  "version": "1.0.0",
+  "main": "barchart.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
